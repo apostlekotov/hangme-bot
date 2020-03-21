@@ -1,4 +1,4 @@
-# HangMeBot
+# HangMeBot 🤖
 >Telegram Bot "Hangman Game"
 
 ## Set up
