@@ -1,15 +1,16 @@
 # HangMe Bot
->Telegram Bot "Hangman Game"
+
+> Hangman Game in Telegram [@HangMeBot](https://t.me/HangMeBot)
 
 ## Set up
 
-_Install_ all dependencies for the telegram bot:
+Install all dependencies for the telegram bot:
 
 ```bash
-pip install pyTelegramBotAPI
+pip install requirements.txt
 ```
 
-**Important!** Make sure you fill the [config file](config.py)!
+**Important!** Make sure you fill the [config file](.env) with `TOKEN` from [@BotFather](https://telegram.me/BotFather)!
 
 ## Run it
 
